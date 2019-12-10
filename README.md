@@ -1,6 +1,6 @@
 # Handwritten-Digit-Image-Classifier
 
-Handwritten Digit Image Classifier is a machine learning classifier model for the images of handwritten digits.
+Handwritten Digit Image Classifier is a machine learning classifier model for classification of the handwritten digit images.
 
 The reason behind implementaion of this project was to get a better insight into the neural network model of machine learning.
 
